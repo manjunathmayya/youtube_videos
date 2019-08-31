@@ -12,3 +12,5 @@ for filename in zip.namelist():
    
        if search_string.lower() in line.lower():
            print( filename + ' : ' + str(line_no) + ' : ' + line)
+            
+   file.close()
