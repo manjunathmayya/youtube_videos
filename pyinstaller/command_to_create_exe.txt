@@ -1,0 +1,10 @@
+Navigate to script path in command prompt.
+
+Ex: C:\scripts\
+
+Run below command to create an executable.
+
+pyinstaller --onefile --clean scriptname.py
+
+Exe will be generated in path
+C:\scripts\dist\scriptname.exe
