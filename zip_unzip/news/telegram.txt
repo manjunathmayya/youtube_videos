@@ -1,0 +1,33 @@
+Telegram, a popular encrypted messaging app, will allow users to cloak their telephone numbers to safeguard Hong Kong protesters against monitoring by authorities, according to a person with direct knowledge of the effort.
+
+The update to Telegram, planned for release over the next few days, will allow protesters to prevent mainland Chinese and Hong Kong authorities from discovering their identities in the app's large group chats.
+
+Hong Kong's Security Bureau told Reuters it has “been acting responsibly to deal with the current difficult time with a view to restoring the public order”. It declined to comment about whether it had tried to identify protesters by using the Telegram app.
+
+
+Chinas Foreign Ministry, the Cyberspace Administration of China (CAC) and the Hong Kong and Macau Affairs Office did not immediately respond to a request for comment outside of business hours.
+
+Thousands of Hong Kong protesters take their cues from more than 100 groups on Telegram, according to protest organizers and supporters. Protesters use encrypted apps like Telegram to mobilize swiftly through multiple group chats, with less risk of police infiltration, an in-depth report published by Reuters earlier in August said.
+
+The groups are used to post everything from news on upcoming protests to tips on dousing tear gas canisters fired by the police to the identities of suspected undercover police and the access codes to buildings in Hong Kong where protesters can hide.
+
+Some protesters express concern that authorities could use the movement's reliance on Telegram to monitor and arrest organizers. Telegram chat groups used to organize public protests are often accessible to anyone and participants use pseudonyms.
+
+Telegram allows users to search for other users by uploading phone numbers. This function allows a new user to quickly learn whether those in a phone's contact book are already using the app, the group said.
+
+Some protesters say they believe Chinese or Hong Kong security officials have exploited the function by uploading large quantities of phone numbers. Reuters was unable to determine if this has occurred.
+
+The app automatically matches phone numbers with the user names in the group. Authorities then only need to request the owners of the phone numbers from the local telecom service in order to learn the users' true identities.
+
+Telegram has detected evidence that Hong Kong or mainland Chinese authorities may have uploaded numbers to identify protesters, said the person with direct knowledge of the situation. But it is unclear whether authorities have successfully used this tactic to locate protesters.
+
+A group of Hong Kong engineers who posted their finding on an online forum earlier this month also said that a feature in Telegram's design may have allowed mainland Chinese or Hong Kong authorities to learn the real identities of users.
+
+The fix Telegram is working on would allow users to disable matching by phone number. That option represents a balance between making it easy for users to find their contacts and the privacy needs of those who rely on the app for protection against state security agents, the source said. But wide adoption of the optional security setting would make the app far harder to use for the vast majority of its more than 200 million consumers, who rely on uploading phone contacts to identify friends and family members on the app, the source said.
+
+In June, Telegram chief executive Pavel Durov said the messaging service experienced a state actor-sized cyber attack and pointed to China as its likely country of origin.
+
+He provided no further details but said the attack coincided with protests in Hong Kong. The Cyberspace Administration of China did not respond to a faxed request for comment at the time.
+
+The move by Telegram comes as Hong Kong police arrested a number of prominent activists and three lawmakers on Friday. Nearly 900 people have been arrested since the demonstrations began three months ago.
+
