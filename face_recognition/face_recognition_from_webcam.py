@@ -8,13 +8,18 @@ video_capture = cv2.VideoCapture(0)
 me_image = face_recognition.load_image_file("Images/me.jpg")
 me_face_encoding = face_recognition.face_encodings(me_image)[0]
 
+another_person_image = face_recognition.load_image_file("Images/another_person.jpg")
+another_person_encoding = face_recognition.face_encodings(another_person_image)[0]
+
 
 # Create arrays of known face encodings and their names
 known_face_encodings = [
     me_face_encoding,
+    another_person_encoding
 ]
 known_face_names = [
     "Manjunath",
+    "Another person"
 ]
 
 
