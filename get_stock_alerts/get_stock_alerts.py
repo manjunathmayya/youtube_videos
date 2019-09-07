@@ -1,3 +1,14 @@
+'''
+Usage:
+
+1. For help run 
+get_stock_alerts.py -h
+
+2. Other usage
+get_stock_alerts.py -s 'symbol name' -p 0.5
+
+'''
+
 from yahoo_fin import stock_info as si
 from numpy import around
 from win10toast import ToastNotifier
@@ -17,10 +28,7 @@ parser.add_argument(
     default='0.01',
     help='Change in percent, on which price has to be notified')
 
-
-
 input_arguments = parser.parse_args()
-
 
 
 def ShowNotification(title, description, delay =2):
@@ -62,22 +70,3 @@ while True:
          
     time.sleep(0.1)
     
-    
-
-
-#print(si.get_data(input_arguments.symbol))
-#
-#pp.pprint(si.get_quote_table(input_arguments.symbol))
-#
-#pp.pprint(si.get_stats(input_arguments.symbol))
-#
-#pp.pprint(si.get_holders(input_arguments.symbol))
-#
-#pp.pprint(si.get_analysts_info(input_arguments.symbol))
-#
-#pp.pprint(si.get_income_statement(input_arguments.symbol))
-#
-#pp.pprint(si.get_balance_sheet(input_arguments.symbol))
-#
-#pp.pprint(si.get_cash_flow(input_arguments.symbol))
-        
